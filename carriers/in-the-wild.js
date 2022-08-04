@@ -122,4 +122,19 @@ module.exports = [{
   "carrier": "Virgin Mobile",
   "sms": "vmobl.com",
   "mms": "vmpix.com"
+}, {
+  "name": "usamobility",
+  "carrier": "USA Mobility",
+  "sms": "usamobility.net",
+  "mms": "usamobility.net"
+}, {
+  "name": "Comcast",
+  "carrier": "Comcast",
+  "sms": "vtext.com",
+  "mms": "mypixmessages.com"
+}, {
+  "name": "carolinawestwireless",
+  "carrier": "Carolina West Wireless",
+  "sms": "vtext.com",
+  "mms": "mypixmessages.com"
 }];

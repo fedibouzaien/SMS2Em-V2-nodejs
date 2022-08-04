@@ -18,7 +18,7 @@ lineReader.eachLine('./input/numbers.txt', (num, last) => {
     if (email == null){
         console.log(phone_number.carrier.name,"found but no email")
     }else{
-        console.log(email)
+        console.log(phone_number.carrier.name , email )
     }
     
   });
