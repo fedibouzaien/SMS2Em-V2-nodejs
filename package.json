@@ -1,0 +1,24 @@
+{
+  "name": "sms2em-v2",
+  "version": "1.0.0",
+  "description": "Generating Email-to-SMS Address Format from numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedibouzaien/SMS2Em-V2-nodejs-v-.git"
+  },
+  "author": "Fedi Bouzaien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedibouzaien/SMS2Em-V2-nodejs-v-/issues"
+  },
+  "homepage": "https://github.com/fedibouzaien/SMS2Em-V2-nodejs-v-#readme",
+  "dependencies": {
+    "email-to-phone": "^1.0.3",
+    "line-reader": "^0.4.0",
+    "twilio": "^3.33.0"
+  }
+}
